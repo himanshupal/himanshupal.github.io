@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/himanshupal
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://himanshupal.github.io
+  * I am himanshupal (https://keybase.io/himanshupal) on keybase.
+  * I have a public key with fingerprint 8FEF E125 127E E0B6 7CC6  AB85 077E 8D00 432F C812
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01017ad94338d6ae0738f681916215ca68b37fbd10853e6583090060e4a97c7e9d140a",
+      "fingerprint": "8fefe125127ee0b67cc6ab85077e8d00432fc812",
+      "host": "keybase.io",
+      "key_id": "077e8d00432fc812",
+      "kid": "01017ad94338d6ae0738f681916215ca68b37fbd10853e6583090060e4a97c7e9d140a",
+      "uid": "2ec161adeb7b9d4574cdbf5af5a98119",
+      "username": "himanshupal"
+    },
+    "service": {
+      "hostname": "himanshupal.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1536842943,
+  "expire_in": 157680000,
+  "prev": "dfe522e2429840bdda99fdc62256f5f1170d6235e53f5db8aefeb5bbba79fecc",
+  "seqno": 22,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.77
+Comment: https://keybase.io/crypto
+
+yMNDAnicrVJ/TFVVHH8EPuWZgA1otAbugkCN8J77+74RhQHpBAUDJXhB98e5vCvv
+F+/eB09fT5ypgAkDMp9DmcwfpcaUNMk2B8HcxLLQYZoTMQGZVL42TBcW2r1af/lv
+Z2c7O+d8Pp/z+XzP9+yCUIMp5DZ6qzOQ9ygx5Lv+gx5DWbulz4fwTnE9YvYhVfDJ
+Am0iVNSKKllEzAgKUEBzIkvgOCNSHERpnJEoBrCAwgApcBTD47TEiwBlSBxSJIOj
+LIpSKCQ4lhZoyIqAQDkkDZFkRyV0u9yyQ9VkGQlKEGAkwGgIUZ6iBYHieIZEaRoy
+IooSOCYJDMA0otWp6AzNHM8pMF12amfapuKpvWfx/7NvzxM5DAqAApwIeZpnRYKk
+CUHkJZLTJssAwOpABbodnB1qaKts5xyK1ePibIg/DdEuamQB6rXVwzwLSq+UVauH
+f5rN5XaqTsFp0yGq6lLMuoS63qVzaiFf8a9aBS87RK2mGqMGuhXZ6UDMQEMKqqzL
+AxKnGALT8qch0OuS3bBC1hEkTTGoNvR3YI0mKUqQxDCIaViGQHlR5FhWEgUKw0hK
+IiUAaFSkMJyEJC6RIs9w2sfxJM/zHM1KUBAQPV+1w4mYMUzzyVVqmopc6eBUjxsi
+/oF+S5ghxGQwznlObzaDKTzqvxY8Pxj5+L3lvyT99CIB67omMHtSrG/QbPDaGsJm
+o95o+nx3bed+a0evaXTZzGDZ8SvN1+oPyf7FEzmFjX+V5P+28MwLpcbGpO5FE5uA
+f8upXVOO6bPF3L4eK1m4lotRuyyLjMeGI1OCJ5MPg6zsdcsuz59VjtytElb4y0fj
+kwPr6urt+Rl96Q8yCKr9rR9qF4RfePQNIX+75tBrcYHai0nT1WOls8jy+MHu1R+N
+ZIbe/OOMPTn7mHd+AzHSOZzx6t6qG5s2Xo1IOZ/8fuad1I3e3rw2eQz9NNck7fSJ
+RYUlZW33mx8PsErhtmA/qp670HD49NJL++JWjZ14fu+q7i/8fVuPGm2hdVlLYs+N
+DwmGE81v+14+wIYNXSxHv576MHqmICSxsOjnmdcTIiwnb+ZvKfalHdyzYyz8lWvV
+8/JScyLX9Ny5mj83JKnuQetoQc/W/gO7PpkQ9rRInsGHFFdgzgUpnmGxLTgn3BWM
+Dj/a8jDls8R5lfGdf/54ishu8tZPZm37/qUEf1f/dLslauHIkK00dUnJkXePX4mf
+7Kj23lq9m/j93ubTCaScGbfhHREvVXLWyup4x5utvu2XlUBEVENvn2kx0ehM/Xtn
+2P6Y1I+7V0gfGOubAmPd5ZfubwbR9cXGr2KM17+8nt8+NOQqsuTduBcY39Gy0pTb
+OmXfYFh6O3ag89eZybs1wX8AF86+Mw==
+=pvXg
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/himanshupal
+
+==================================================================
