@@ -5,10 +5,13 @@
 	<meta charset="utf-8" lang="en_us">
 	<link rel="icon" type="image/png" href="./image.jpg">
 	<meta author="HimanshuPal" keywords="Happy New Year">
-	<link rel="stylesheet" type="text/css" href="./style.css">
+	<link rel="stylesheet" type="text/css" href="
+	./style.css">
+	<script type="text/javascript" href="./countdown.js"></script>
 </head>
 <body>
 	<div id="particles"></div>
+	<div id="time" id="particles"></div>
 	<h1>Happy New Year<br><div class="year">2019</div></h1>
 	<h1 id="name">-Himanshu pal.</h1>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
@@ -17,6 +20,24 @@
 		'particles.json', function(){
 			console.log('particles.json loaded......')
 		})
+</script>
+<script>
+var countDownDate = new Date("Jan 01, 2019 00:00:00").getTime();
+var x = setInterval(function()
+{
+    var now = new Date().getTime();
+    var distance = countDownDate - now;
+    var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+    var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+    var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+    var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+    document.getElementById("time").innerHTML = days + " Days " + hours + " Hours " + minutes + " Minutes " + seconds + " Seconds Left for";
+    if (distance < 0)
+    {
+        clearInterval(x);
+        document.getElementById("time").innerHTML = "";
+    }
+}, 1000);
 </script>
 </body>
 </html>
