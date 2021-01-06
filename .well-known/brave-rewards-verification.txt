@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: himanshupal.github.io
+Token: 0ee87fea51da823e39814af5f01013b3d0bdb364e3d139439266cdc3b0fc6d55
